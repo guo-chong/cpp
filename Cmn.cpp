@@ -2,7 +2,7 @@
  * 从长度为n字符串中随机挑选出m个字符，有多少种方法。
  * 用递归实现Anm，用set以及muitiSet去除重复。
  * author：guochong
- *
+ *xxx
  * */
 #include <iostream>
 #include<string>
